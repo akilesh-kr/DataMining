@@ -1,0 +1,18 @@
+Data File Imported successfully !!
+Total No. of samples: 5481
+Total label 1: 487
+Total label 0: 4994
+Train and Test Data split done with 60:40 ratio
+Train Set details:
+Total No. of samples: 3288
+Total label 1: 242
+Total label 0: 3046
+Test Set details:
+Total No. of samples: 2193
+Total label 1: 245
+Total label 0: 1948
+Predicting the labels using kNN algorithm using k = 7
+Train set size: 3288
+Test set size: 2193
+Correct predicitons: 2098
+Accuracy: 95.668
