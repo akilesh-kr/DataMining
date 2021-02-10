@@ -1,4 +1,4 @@
-## Credit Card Fraud Detection using kNN algorithm
+# Credit Card Fraud Detection using kNN algorithm
 
 The Python file(k-NN_algorithm.py) and Dataset(creditcard.txt) is attached.
 
