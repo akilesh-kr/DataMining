@@ -1,4 +1,6 @@
-The Python file(k-NN_algorithm.py) and Dataset(creditcard.txt) is attached along with the email.
+##Credit Card Fraud Detection using kNN algorithm
+
+The Python file(k-NN_algorithm.py) and Dataset(creditcard.txt) is attached.
 
 Data set is imported in the python code as a parameter. 
 
